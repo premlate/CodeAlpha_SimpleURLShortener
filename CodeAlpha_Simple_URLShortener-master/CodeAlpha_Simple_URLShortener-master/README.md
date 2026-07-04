@@ -53,7 +53,7 @@ Task: Simple URL Shortener
 
 ## ⚙️ Setup Instructions
 ## Clone the Repository
-git clone https://github.com/borudesandesh/CodeAlpha_Simple_URLShortener.git
+git clone https://github.com/premlate/CodeAlpha_SimpleURLShortener.git
 
 
 ## 2️⃣ Navigate into the project directory
