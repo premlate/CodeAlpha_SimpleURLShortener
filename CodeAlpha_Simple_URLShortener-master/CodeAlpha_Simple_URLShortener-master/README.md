@@ -29,8 +29,8 @@ Domain: Backend Development
 
 Task: Simple URL Shortener
 
-👤 **Author:** Sandesh Borude  
-🌐 **GitHub:** borudesandesh
+👤 **Author:** Prem Late  
+🌐 **GitHub:** premlate
 
 # 🔗 URL Shortener (Flask)
 
